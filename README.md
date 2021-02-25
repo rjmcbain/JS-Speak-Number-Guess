@@ -12,7 +12,7 @@ HTML  |  CSS  |  JavaScript
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
 Project Specifications
-Display UI directing user to speak guess
-Implement speech recognition to listen to mic
-Process user's guess and match
-Let user know higher, lower, match or not a number
+Display UI directing user to speak guess</br>
+Implement speech recognition to listen to mic</br>
+Process user's guess and match</br>
+Let user know higher, lower, match or not a number</br>
