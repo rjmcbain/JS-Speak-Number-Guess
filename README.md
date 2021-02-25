@@ -1,6 +1,6 @@
 # Speak Number Guessing Game
 
-View app: https://rjmcbain.github.io/JS-NYE-Countdown/
+View app: https://rjmcbain.github.io/JS-Speak-Number-Guess/
 
 
 
